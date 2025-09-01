@@ -62,7 +62,7 @@ It combines **Excel, SQL, Python, and Power BI** to provide both analytical insi
   Compared average sales and visualized trends.  
 
 - **Sales by Holiday Type**  
-  Thanksgiving and Christmas showed the highest spikes.  
+  Thanksgiving showed the highest spikes.  
 
 - **Sales by Store Type & Size**  
   Larger stores and Type A stores outperformed others during holidays.  
@@ -71,10 +71,11 @@ It combines **Excel, SQL, Python, and Power BI** to provide both analytical insi
   Applied a **4-week rolling average** to predict next week’s sales.  
 
 ### 4. Power BI Dashboard
-- KPIs: Total sales, holiday vs. non-holiday sales comparison.  ![Uploading Screenshot 2025-09-01 090111.png…]()
+- KPIs: Total sales, holiday vs. non-holiday sales comparison.  
 
 - Slicers for  time period.  
 - Visuals:  bar charts (holiday impact, store size analysis).  
 
 
+<img width="1362" height="658" alt="Screenshot 2025-09-01 090111" src="https://github.com/user-attachments/assets/b725c0e0-6a09-4332-afdf-0e0fee6fbdb9" />
 
