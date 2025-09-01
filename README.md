@@ -71,7 +71,8 @@ It combines **Excel, SQL, Python, and Power BI** to provide both analytical insi
   Applied a **4-week rolling average** to predict next week’s sales.  
 
 ### 4. Power BI Dashboard
-- KPIs: Total sales, holiday vs. non-holiday sales comparison.  
+- KPIs: Total sales, holiday vs. non-holiday sales comparison.  ![Uploading Screenshot 2025-09-01 090111.png…]()
+
 - Slicers for  time period.  
 - Visuals:  bar charts (holiday impact, store size analysis).  
 
